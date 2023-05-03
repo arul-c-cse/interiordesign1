@@ -1,0 +1,327 @@
+.header {
+    padding: 40px;
+    text-align: center;
+    background: rgb(247, 176, 46);
+    color: white;
+    font-size: 10px;
+    width:100%;
+    height:10px;
+    
+
+  }
+.ip1
+{
+  width:100%;
+  height:70%;
+  
+}
+.p1{
+  border-style:solid;
+  border-color: rgb(247, 176, 46);
+  width:30%;
+
+}
+.button1
+{
+		border: none;
+		color: white;
+		padding: 15px 32px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px;
+		margin: 4px 2px;
+		cursor: pointer;
+	    margin-left:50%;
+}
+.button1
+{
+	background-color:rgb(53, 128, 53);
+}
+.ip2
+{
+  width:100%;
+  
+}
+.p2{
+  border-style:solid;
+  border-color: rgb(247, 176, 46);
+  width:30%;
+
+}
+.button2
+{
+		border: none;
+		color: white;
+		padding: 15px 32px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px;
+		margin: 4px 2px;
+		cursor: pointer;
+	    margin-left:50%;
+}
+.button2
+{
+	background-color:rgb(53, 128, 53);
+}
+.p1{
+   float:left;
+}
+.p2{
+  float: left;
+  margin-left:55px;
+}
+.p3
+{
+   float:right;
+   
+}
+
+
+.ip3
+{
+  width:100%;
+  
+}
+.p3{
+  border-style:solid;
+  border-color: rgb(247, 176, 46);
+  width:30%;
+  
+}
+.button3
+{
+		border: none;
+		color: white;
+		padding: 15px 32px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px;
+		margin: 4px 2px;
+		cursor: pointer;
+	    margin-left:50%;
+}
+.button3
+{
+	background-color:rgb(53, 128, 53);
+}
+.ip4
+{
+  width:100%;
+  height:70%;
+  
+}
+.p4{
+  border-style:solid;
+  border-color: rgb(247, 176, 46);
+  width:30%;
+
+}
+.button4
+{
+		border: none;
+		color: white;
+		padding: 15px 32px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px;
+		margin: 4px 2px;
+		cursor: pointer;
+	    margin-left:50%;
+}
+.button4
+{
+	background-color:rgb(53, 128, 53);
+}
+.ip5
+{
+  width:100%;
+  
+}
+.p5{
+  border-style:solid;
+  border-color: rgb(247, 176, 46);
+  width:30%;
+
+}
+.button5
+{
+		border: none;
+		color: white;
+		padding: 15px 32px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px;
+		margin: 4px 2px;
+		cursor: pointer;
+	    margin-left:50%;
+}
+.button5
+{
+	background-color:rgb(53, 128, 53);
+}
+.p4{
+   float:left;
+}
+.p5{
+  float: left;
+  margin-left:55px;
+}
+.p6
+{
+   float:right;
+   
+}
+
+
+.ip6
+{
+  width:100%;
+  
+}
+.p6{
+  border-style:solid;
+  border-color: rgb(247, 176, 46);
+  width:30%;
+  
+}
+.button6
+{
+		border: none;
+		color: white;
+		padding: 15px 32px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px;
+		margin: 4px 2px;
+		cursor: pointer;
+	    margin-left:50%;
+}
+.button6
+{
+	background-color:rgb(53, 128, 53);
+}
+.ip7
+{
+  width:100%;
+  height:70%;
+  
+}
+.p7{
+  border-style:solid;
+  border-color: rgb(247, 176, 46);
+  width:30%;
+
+}
+.button7
+{
+		border: none;
+		color: white;
+		padding: 15px 32px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px;
+		margin: 4px 2px;
+		cursor: pointer;
+	    margin-left:50%;
+}
+.button7
+{
+	background-color:rgb(53, 128, 53);
+}
+.ip8
+{
+  width:100%;
+  
+}
+.p8{
+  border-style:solid;
+  border-color: rgb(247, 176, 46);
+  width:30%;
+
+}
+.button8
+{
+		border: none;
+		color: white;
+		padding: 15px 32px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px;
+		margin: 4px 2px;
+		cursor: pointer;
+	    margin-left:50%;
+}
+.button8
+{
+	background-color:rgb(53, 128, 53);
+}
+.p7{
+   float:left;
+}
+.p8{
+  float: left;
+  margin-left:55px;
+}
+.p9
+{
+   float:right;
+   
+}
+
+
+.ip9
+{
+  width:100%;
+  
+}
+.p9{
+  border-style:solid;
+  border-color: rgb(247, 176, 46);
+  width:30%;
+  
+}
+.button9
+{
+		border: none;
+		color: white;
+		padding: 15px 32px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px;
+		margin: 4px 2px;
+		cursor: pointer;
+	    margin-left:50%;
+}
+.button9
+{
+	background-color:rgb(53, 128, 53);
+}
+.butto
+{
+
+		border: none;
+		color: white;
+		padding: 15px 32px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px;
+		margin: 4px 2px;
+		cursor: pointer;
+	    margin-left:80%;
+		margin-top:10%;
+}
+.butto
+{
+	background-color:rgb(186, 109, 109);
+}
